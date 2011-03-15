@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Test"
+echo "Test" #Print the word Test
